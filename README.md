@@ -21,7 +21,7 @@ I am an informatics student who is pursuing a long term career change in softwar
 <a href="https://instagram.com/evribsap" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="evribsap"/></a>
 </p>
 
-<h3 align="left">Personal Website</h3>
+<h3 align="left">Personal Website:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="evribsaputro" height="50" width="70" /></a>
 </p>

@@ -15,6 +15,7 @@ I am an informatics student who is pursuing a long term career change in softwar
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:evribsaputra@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="evribsaputro" /></a>
 <a href="https://www.linkedin.com/in/evribsaputro/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="evribsaputro" /></a>
 <a href="https://twitter.com/evribsap" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="evribsap" /></a>
 <a href="https://instagram.com/evribsap" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="evribsap"/></a>
@@ -27,3 +28,4 @@ I am an informatics student who is pursuing a long term career change in softwar
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=evribsap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs,prs" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evribsap&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
